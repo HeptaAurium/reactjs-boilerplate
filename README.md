@@ -3,9 +3,9 @@ A complete react-js boilerplate inspired by https://www.javatpoint.com/react-ins
 
 INSTALLATION
 ------------
-->Clone the project onto your machine
-->run `npm install`
-->run `npm start`
+Clone the project onto your machine, 
+Run `npm install`, 
+Run `npm start`, 
 
 PREREQUISITES
 -------------
